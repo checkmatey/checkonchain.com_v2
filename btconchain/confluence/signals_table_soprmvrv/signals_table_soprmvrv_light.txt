@@ -1,0 +1,1 @@
+<b>Bitcoin MVRV and SOPR Indicator (MinMax Scalar)</b>
